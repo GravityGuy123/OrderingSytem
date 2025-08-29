@@ -56,7 +56,10 @@ Display all available items and prices before prompting.
 Allow multiple items in a single order.
 Build a user-friendly interface instead of browser prompts.
 
-💡 Author
+👨‍💻 Author
+Ejidike Simon
+Writer of the code and maintainer of this project.
+
 Created as a beginner-friendly JavaScript project for practicing:
 
 - Arrays
