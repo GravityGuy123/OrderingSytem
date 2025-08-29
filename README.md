@@ -49,8 +49,7 @@ Total = ₦3600
 
 
 📂 Project Structure
-shop.js    # main JavaScript file containing the program
-index.html # optional HTML file to run the script in the browser
+script.js    # main JavaScript file containing the program
 
 ✅ Future Improvements
 Display all available items and prices before prompting.
