@@ -58,10 +58,8 @@ Build a user-friendly interface instead of browser prompts.
 
 👨‍💻 Author
 Ejidike Simon
-Writer of the code and maintainer of this project.
 
-Created as a beginner-friendly JavaScript project for practicing:
-
+*Created as a beginner-friendly JavaScript project for practicing:*
 - Arrays
 - Loops
 - User input validation
